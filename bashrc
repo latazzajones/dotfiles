@@ -11,8 +11,7 @@ alias ll="ls =lahG"
 alias rp="rspec --require rspec/pride --format PrideFormatter"
 
 ######################
-# Load RVM into a shell session *as a function*
-source ~/.profile
+# Load secrets 
 source ~/.keys
 
 ###########

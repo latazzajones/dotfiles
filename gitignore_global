@@ -4,3 +4,4 @@ dump.rdb
 .byebug_history
 .DS_Store
 .vim/pack/my-packages/
+notes.rb

@@ -13,9 +13,6 @@ olddir=~/dotfiles_old
 # list of files/folders to symlink in homedir
 files="bash_profile bashrc gitconfig gitignore_global profile viminfo vim"    
 # list of packages to run on start
-start_packages=""
-# list of packages to run on opt 
-opt_packages=""
 ##########
 
 # create dotfiles_old in homedir
@@ -37,7 +34,8 @@ for file in $files; do
 done
 
 # install submodules
-# will this work?
+# will this work? it works but it's adding a new vim file :-( 
+echo "Adding submodules"
 git submodule init
 git submodule update
 

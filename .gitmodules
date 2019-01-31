@@ -1,0 +1,3 @@
+[submodule "vim/pack/my-packages/start/vim-rubocop"]
+	path = vim/pack/my-packages/start/vim-rubocop
+	url = git@github.com:sodapopcan/vim-rubocop.git

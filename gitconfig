@@ -1,0 +1,14 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = natasha jones
+#	email = leo@natashas-MacBook-Pro.local
+[user]
+	name = Natasha Jones
+	email = tasha.k.jones@gmail.com
+[filter "lfs"]
+	clean = git-lfs clean %f
+	smudge = git-lfs smudge %f
+	required = true
+[core]
+	excludesfile = /Users/leo/.gitignore_global

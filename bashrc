@@ -18,4 +18,4 @@ source ~/.keys
 
 export PATH="/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:$PATH"
 
-source ~/git-completion.bash
+source ~/.git-completion.bash

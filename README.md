@@ -1,4 +1,4 @@
-## To Setup 
+## To Setup dotfiles
 
 1. `cd ~`
 1. `git clone git@github.com:latazzajones/dotfiles.git`
@@ -16,3 +16,8 @@
 1. Add the file without a dot to the `~/dotfiles` folder
 1. If the file needs to be loaded when bash opens, source it in `bashrc`
 1. Add the file name to the list of files in `setup.sh`
+
+
+## Computer setup BEFORE dotfiles
+
+[From the Rails Tutorial](https://bmoreonrails.github.io/rails_tutorial/installation/mac_os/)

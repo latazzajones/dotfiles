@@ -1,7 +1,9 @@
 dump.rdb
 *.swp
+*.swo
 *.netrwhist
 .byebug_history
 .DS_Store
 .vim/pack/my-packages/
 notes.rb
+notepad.rb

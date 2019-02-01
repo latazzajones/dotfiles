@@ -38,6 +38,10 @@ for file in $files; do
     ln -s $dir/$file ~/.$file
 done
 
+# set gitignore_global file
+echo "${ORANGE}Setting gitignore file${NC}"
+git config --global core.excludesfile ~/.gitignore_global
+
 # install submodules
 echo "${GREEN}Adding submodules for vim!${NC}" 
 git submodule init

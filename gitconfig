@@ -11,4 +11,4 @@
 	smudge = git-lfs smudge %f
 	required = true
 [core]
-	excludesfile = /Users/leo/.gitignore_global
+	excludesfile = /Users/natashajones/.gitignore_global

@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.rb,*.erb,*.haml, set filetype=ruby
+autocmd BufNewFile,BufRead *.rb,*.erb,*.haml,*.slim set filetype=ruby

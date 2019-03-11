@@ -1,3 +1,6 @@
 [submodule "vim/pack/my-packages/start/vim-rubocop"]
 	path = vim/pack/my-packages/start/vim-rubocop
 	url = git@github.com:sodapopcan/vim-rubocop.git
+[submodule "vim-slim"]
+	path = vim-slim
+	url = https://github.com/slim-template/vim-slim.git

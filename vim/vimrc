@@ -10,6 +10,4 @@ set linebreak
 set expandtab shiftwidth=2 tabstop=2
 set wildmode=longest,list,full
 
-let mapleader = ","
-
-map <leader>t :RuboCop --auto-correct<CR>
+autocmd BufNewFile,BufRead *.slim setlocal filetype=slim

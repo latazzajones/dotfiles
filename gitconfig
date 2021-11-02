@@ -4,8 +4,8 @@
 #	name = natasha jones
 #	email = leo@natashas-MacBook-Pro.local
 [user]
-	name = Natasha Jones
-	email = tasha.k.jones@gmail.com
+	name = Tasha Ibrahim
+	email = natasha.joyce.ibrahim@gmail.com
 [filter "lfs"]
 	clean = git-lfs clean %f
 	smudge = git-lfs smudge %f

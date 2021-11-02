@@ -12,5 +12,3 @@ export PATH=/usr/local/bin:$PATH
 
 # Load .bashrc if it exists
 test -f ~/.bashrc && source ~/.bashrc
-
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*

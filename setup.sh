@@ -11,7 +11,7 @@ dir=~/dotfiles
 # old dotfiles backup directory
 olddir=~/dotfiles_old             
 # list of files/folders to symlink in homedir
-files="bash_profile bashrc gitconfig gitignore_global profile viminfo vim git-completion.bash"    
+files="zprofile zshrc gitconfig gitignore_global profile viminfo vim git-completion.bash"    
 # list of packages to run on start
 
 ###colors###
